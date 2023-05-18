@@ -1,8 +1,6 @@
-import React, { useEffect, useState, useRef, useMemo } from 'react';
+import React, {useState} from 'react';
 import clsx from 'clsx';
 // icon list
-import AddSharpIcon from '@mui/icons-material/AddSharp';
-import ModeStandbyIcon from '@mui/icons-material/ModeStandby';
 import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined';
 import DonutSmallIcon from '@mui/icons-material/DonutSmall';
 import AssignmentOutlinedIcon from '@mui/icons-material/AssignmentOutlined';
